@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=EOS Contractor Editor
+Comment=Simple app for create and edit contract files
+GenericName=EOS Contract Editor
+Exec=com.github.phelipefox.eoscontractoreditor %U
+Icon=com.github.phelipefox.eoscontractoreditor
+Terminal=false
+Categories=Utility;GTK;Development;
+Keywords=Develop;
